@@ -1,0 +1,96 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+/* fallback */
+@font-face {
+  font-family: 'Material Icons';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts/flUhRq6tzZclQEJ-Vdg-IuiaDsNc.woff2) format('woff2');
+}
+
+.material-icons {
+  font-family: 'Material Icons';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;
+  line-height: 1;
+  letter-spacing: normal;
+  text-transform: none;
+  display: inline-block;
+  white-space: nowrap;
+  word-wrap: normal;
+  direction: ltr;
+  -webkit-font-feature-settings: 'liga';
+  -webkit-font-smoothing: antialiased;
+}
+/* Hover: 3949ab*/
+/*Base: 1a237e*/
+.apvc_shortcode_generator_block{ padding: 20px !important; }
+.apvc_shortocode_output{ width: 49% !important; margin-right: 8px; padding: 20px !important; min-height: 300px; }
+.apvc_headings{ font-weight: bold; font-size: 20px; margin: 0px 0px 15px 10px; }
+#apvc_shortcode_preview{ font-weight: bold; margin: 20px; text-align: center; font-size: 14px; }
+#apvc_shortcode_output{ margin-bottom: 20px; text-align: center; }
+.apvc_copy_shortcode{ text-align: center; }
+.apvc_shortcode_settings .chips .input{ width: 160px !important  }
+.apvc_shortcode_settings .caption{ font-weight: 600; } 
+.back_to_reporst{ float: right; }
+.back_to_reporst:hover{ color: #ffffff; }
+#apvc_reset_filters{ background: red; padding: 9px 14px; border-radius: 100%; color: #fff; font-weight: bold; top: 92px; float: right; }
+.postFilter .select-wrapper{ right: 5px; float: left; }
+.apvc_reports_page{ padding: 10px; background-color: #ffffff; }
+.apvc_reports_page thead tr th{ background-color: #1a237e; color: #ffffff; padding: 10px 15px 10px 15px; text-align: center; font-weight: 600; border: 2px solid #ffffff; border-top-left-radius: 15px; border-top-right-radius: 15px; }
+.apvc_reports_page tfoot tr th{ background-color: #1a237e; color: #ffffff; padding: 10px 15px 10px 15px; text-align: center; font-weight: 600; border: 2px solid #ffffff; border-bottom-left-radius: 15px; border-bottom-right-radius: 15px; }
+.apvc_reports_page tbody tr td a{ color: #1a237e; }
+#wpcontent{ background-color:#fff; }
+.apvc_shortocode_gen a:hover{ color: #ffffff; }
+.apvc_shortocode_gen h5{ margin-bottom: 25px; }
+.apvc_shortocode_gen .progress{ display:none; margin: 25px 0px 25px 0px; background-color: #9ca8ef; }
+.apvc_shortocode_output {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 10%;
+}
+.minicolors-theme-default.minicolors{ width: 100% !important }
+.minicolors-theme-default .minicolors-swatch{ right: 5px !important; top: 15px !important; left: auto !important; width: 25px; height: 25px; }
+#modalResetAll .btn:hover{ color: #ffffff; }
+#modalResetAll .modal-footer, #modalResetAllCounter .modal-footer{ text-align: center !important; }
+.apvc_shortcode_settings .btn:hover, .apvc_shortcode_settings .btn-large:hover{ color: #ffffff !important;  }
+p{ margin: 5px; }
+.input-field { margin-top: 10px; margin-bottom: 10px; }
+.dropdown-content li{ min-height: 30px;  }
+.dropdown-content li > a, .dropdown-content li > span{
+  font-size: 14px !important;
+  color: #1a237e;
+  display: block;
+  line-height: 15px;
+  padding: 10px;
+}
+[type="checkbox"] + span:not(.lever){
+  height: 18px;
+  line-height: 20px;
+  font-size: 14px;
+}
+
+.apvc_charts .card{ max-width: 100% !important; }
+
+.apvc_dashboard .col h5{
+  padding: 15px;
+  margin: 0px;
+  background-color: #1a237e;
+  color: #fff;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+.top_container{ margin: 25px 0px 25px 0px; }
+.apvc_dashboard table{ border: 1px solid gray; border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px; }
+.apvc_dashboard td, th{ padding: 10px 5px; }
+.apvc_dashboard .progress{ width: 300px; margin: 150px auto; }
+.ind_article{ display: none; }
+#most_visited_pages .progress, #weekly_report_bar_chart .progress, #monthlyBarChart .progress{ width: 300px; margin: 150px auto; }
+.apvc_shortcode_designer .warning{ color: red; font-size: 15px; margin: 15px 0px 15px 0px; display: none; }
+.apvc_shortcode_designer .warningBlock { border: 1px solid red; margin-bottom: 10px; padding: 10px; }
+
+.apvc_promotional_block button{ margin-top: 10px; }

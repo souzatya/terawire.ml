@@ -1,0 +1,528 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Floating Button Lite\n"
+"POT-Creation-Date: 2019-10-24 20:23+0300\n"
+"PO-Revision-Date: 2019-10-24 20:22+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: floating-button.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: admin/class-admin.php:173
+msgid "More features in the PRO version"
+msgstr ""
+
+#: admin/class-admin.php:273
+msgid "Settings"
+msgstr ""
+
+#: admin/class-admin.php:291
+#, php-format
+msgid "Thank you for using <a href=\"%1$s\" target=\"_blank\">"
+msgstr ""
+
+#: admin/class-admin.php:340 admin/partials/tools-data-base.php:21
+msgid "Item Added"
+msgstr ""
+
+#: admin/class-admin.php:347 admin/partials/tools-data-base.php:24
+msgid "Item Updated"
+msgstr ""
+
+#: admin/partials/add-new.php:38 admin/partials/add_new.php:22
+msgid "Register an item name"
+msgstr ""
+
+#: admin/partials/add-new.php:50 admin/partials/add_new.php:30
+msgid "Publish"
+msgstr ""
+
+#: admin/partials/add-new.php:74 admin/partials/add_new.php:45
+#: admin/partials/class-list-table.php:114
+msgid "Delete"
+msgstr ""
+
+#: admin/partials/add-new.php:79
+msgid "Saving"
+msgstr ""
+
+#: admin/partials/add-new.php:102 admin/partials/add_new.php:69
+msgid "Main"
+msgstr ""
+
+#: admin/partials/add-new.php:103 admin/partials/add_new.php:70
+msgid "Vertical"
+msgstr ""
+
+#: admin/partials/add-new.php:104 admin/partials/add_new.php:71
+msgid "Horizontal"
+msgstr ""
+
+#: admin/partials/add-new/clone.php:18 admin/partials/add-new/clone.php:63
+#: admin/partials/add-new/horizontal.php:22
+#: admin/partials/add-new/vertical.php:22
+msgid "Item "
+msgstr ""
+
+#: admin/partials/add-new/clone.php:21 admin/partials/add-new/clone.php:66
+#: admin/partials/add-new/horizontal.php:25 admin/partials/add-new/main.php:26
+#: admin/partials/add-new/vertical.php:25
+msgid "Icon"
+msgstr ""
+
+#: admin/partials/add-new/clone.php:25 admin/partials/add-new/clone.php:71
+#: admin/partials/add-new/horizontal.php:29 admin/partials/add-new/main.php:45
+#: admin/partials/add-new/vertical.php:29
+msgid "Tooltip"
+msgstr ""
+
+#: admin/partials/add-new/clone.php:34 admin/partials/add-new/clone.php:80
+#: admin/partials/add-new/horizontal.php:43 admin/partials/add-new/main.php:51
+#: admin/partials/add-new/vertical.php:43
+msgid "Button color"
+msgstr ""
+
+#: admin/partials/add-new/clone.php:38 admin/partials/add-new/clone.php:84
+#: admin/partials/add-new/horizontal.php:47 admin/partials/add-new/main.php:55
+#: admin/partials/add-new/vertical.php:47
+msgid "Button hover color"
+msgstr ""
+
+#: admin/partials/add-new/clone.php:42 admin/partials/add-new/clone.php:88
+#: admin/partials/add-new/horizontal.php:51 admin/partials/add-new/main.php:59
+#: admin/partials/add-new/vertical.php:51
+msgid "Icon color"
+msgstr ""
+
+#: admin/partials/add-new/clone.php:49 admin/partials/add-new/clone.php:95
+#: admin/partials/add-new/horizontal.php:57
+#: admin/partials/add-new/vertical.php:58
+msgid "Item type"
+msgstr ""
+
+#: admin/partials/add-new/horizontal.php:32
+#: admin/partials/add-new/vertical.php:32
+msgid "Hold Open"
+msgstr ""
+
+#: admin/partials/add-new/horizontal.php:72
+#: admin/partials/add-new/vertical.php:75
+msgid "ID for element"
+msgstr ""
+
+#: admin/partials/add-new/horizontal.php:76 admin/partials/add-new/main.php:85
+#: admin/partials/add-new/vertical.php:79
+msgid "Class for element"
+msgstr ""
+
+#: admin/partials/add-new/main.php:21
+msgid "Position"
+msgstr ""
+
+#: admin/partials/add-new/main.php:30
+msgid "Button shape"
+msgstr ""
+
+#: admin/partials/add-new/main.php:37
+msgid "Size"
+msgstr ""
+
+#: admin/partials/add-new/main.php:41
+msgid "Animation"
+msgstr ""
+
+#: admin/partials/add-new/main.php:66
+msgid "Tooltip background"
+msgstr ""
+
+#: admin/partials/add-new/main.php:70
+msgid "Tooltip color"
+msgstr ""
+
+#: admin/partials/add-new/main.php:79
+msgid "Button type"
+msgstr ""
+
+#: admin/partials/add-new/settings/add-new.php:14
+msgid "All posts and pages"
+msgstr ""
+
+#: admin/partials/add-new/settings/add-new.php:15
+msgid "Where shortcode is inserted"
+msgstr ""
+
+#: admin/partials/add-new/settings/add-new.php:30
+msgid "Choose a condition to target to specific content."
+msgstr ""
+
+#: admin/partials/add-new/settings/clone.php:54
+#: admin/partials/add-new/settings/clone.php:111
+#: admin/partials/add-new/settings/horizontal.php:60
+#: admin/partials/add-new/settings/vertical.php:60
+msgid "Link"
+msgstr ""
+
+#: admin/partials/add-new/settings/clone.php:55
+#: admin/partials/add-new/settings/clone.php:112
+#: admin/partials/add-new/settings/horizontal.php:61
+#: admin/partials/add-new/settings/vertical.php:61
+msgid "Login"
+msgstr ""
+
+#: admin/partials/add-new/settings/clone.php:56
+#: admin/partials/add-new/settings/clone.php:113
+#: admin/partials/add-new/settings/horizontal.php:62
+#: admin/partials/add-new/settings/vertical.php:62
+msgid "Logout"
+msgstr ""
+
+#: admin/partials/add-new/settings/clone.php:57
+#: admin/partials/add-new/settings/clone.php:114
+#: admin/partials/add-new/settings/horizontal.php:63
+#: admin/partials/add-new/settings/vertical.php:63
+msgid "Register"
+msgstr ""
+
+#: admin/partials/add-new/settings/clone.php:58
+#: admin/partials/add-new/settings/clone.php:115
+#: admin/partials/add-new/settings/horizontal.php:64
+#: admin/partials/add-new/settings/vertical.php:64
+msgid "Lostpasswordt"
+msgstr ""
+
+#: admin/partials/add-new/settings/main.php:17
+msgid "bottom-right"
+msgstr ""
+
+#: admin/partials/add-new/settings/main.php:22
+msgid "Specify floating button location on screen."
+msgstr ""
+
+#: admin/partials/add-new/settings/main.php:42
+msgid "Select the Icon for button"
+msgstr ""
+
+#: admin/partials/add-new/settings/main.php:51
+msgid "Circle"
+msgstr ""
+
+#: admin/partials/add-new/settings/main.php:62
+msgid "Medium"
+msgstr ""
+
+#: admin/partials/add-new/settings/main.php:73
+msgid "Fade"
+msgstr ""
+
+#: admin/partials/add-new/settings/main.php:121
+msgid "Main Button"
+msgstr ""
+
+#: admin/partials/add-new/settings/main.php:128
+#: admin/partials/add-new/settings/main.php:149
+msgid "Types of the button which can be select"
+msgstr ""
+
+#: admin/partials/add-new/settings/main.php:130
+msgid "<strong>Main Button</strong> - button has some sub buttons"
+msgstr ""
+
+#: admin/partials/add-new/settings/main.php:131
+#: admin/partials/add-new/settings/main.php:151
+msgid "<strong>Link</strong> - insert any link"
+msgstr ""
+
+#: admin/partials/add-new/settings/main.php:132
+#: admin/partials/add-new/settings/main.php:152
+msgid "<strong>Share</strong> - share the page in selected social network"
+msgstr ""
+
+#: admin/partials/add-new/settings/main.php:133
+#: admin/partials/add-new/settings/main.php:153
+msgid "<strong>Print</strong> - print the page"
+msgstr ""
+
+#: admin/partials/add-new/settings/main.php:134
+#: admin/partials/add-new/settings/main.php:154
+msgid "<strong>Scroll to Top</strong> - go to header of the site"
+msgstr ""
+
+#: admin/partials/add-new/settings/main.php:135
+#: admin/partials/add-new/settings/main.php:155
+msgid "<strong>Go Back</strong> - the previous URL in the history list"
+msgstr ""
+
+#: admin/partials/add-new/settings/main.php:136
+#: admin/partials/add-new/settings/main.php:156
+msgid "<strong>Go Forward</strong> - the next URL in the history list"
+msgstr ""
+
+#: admin/partials/add-new/settings/main.php:137
+#: admin/partials/add-new/settings/main.php:157
+msgid "<strong>Smooth Scroll</strong> - scroll the page to the element with ID"
+msgstr ""
+
+#: admin/partials/add-new/settings/main.php:142
+msgid "Set Class for element."
+msgstr ""
+
+#: admin/partials/add-new/settings/main.php:144
+msgid "You may enter several classes separated by a space."
+msgstr ""
+
+#: admin/partials/add-new/settings/targeting.php:16
+msgid "Specify the window breakpoint in px when the button will be shown."
+msgstr ""
+
+#: admin/partials/add-new/settings/targeting.php:30
+msgid "Specify the window breakpoint ( mix width) in px."
+msgstr ""
+
+#: admin/partials/add-new/settings/targeting.php:56
+msgid "Disable Font Awesome 5 style on front-end of the site."
+msgstr ""
+
+#: admin/partials/add-new/settings/targeting.php:58
+msgid ""
+"If you already have a Font Awesome 5 installed on the site, you can disable "
+"the include the Font Awesome 5 style."
+msgstr ""
+
+#: admin/partials/add-new/targeting.php:18
+msgid "Targeting"
+msgstr ""
+
+#: admin/partials/add-new/targeting.php:22
+msgid "Show on devices"
+msgstr ""
+
+#: admin/partials/add-new/targeting.php:24
+msgid "Don't show on screens more"
+msgstr ""
+
+#: admin/partials/add-new/targeting.php:30
+msgid "Don't show on screens less"
+msgstr ""
+
+#: admin/partials/add-new/targeting.php:38
+msgid "Show for users"
+msgstr ""
+
+#: admin/partials/add-new/targeting.php:39
+msgid "All Users"
+msgstr ""
+
+#: admin/partials/add-new/targeting.php:40
+msgid "Authorized Users"
+msgstr ""
+
+#: admin/partials/add-new/targeting.php:41
+msgid "Unauthorized Users"
+msgstr ""
+
+#: admin/partials/add-new/targeting.php:46
+msgid "Depending on the language"
+msgstr ""
+
+#: admin/partials/add-new/targeting.php:48
+msgid "Enable"
+msgstr ""
+
+#: admin/partials/add-new/targeting.php:54
+msgid "Font Awesome 5 style"
+msgstr ""
+
+#: admin/partials/add-new/targeting.php:56
+msgid "Disable"
+msgstr ""
+
+#: admin/partials/class-list-table.php:111
+msgid "Edit"
+msgstr ""
+
+#: admin/partials/class-list-table.php:112
+msgid "Duplicate"
+msgstr ""
+
+#: admin/partials/class-list-table.php:229
+msgid "Untitle"
+msgstr ""
+
+#: admin/partials/include-data.php:29 admin/partials/main.php:53
+msgid "Update"
+msgstr ""
+
+#: admin/partials/include-data.php:41 admin/partials/include-data.php:50
+msgid "Save"
+msgstr ""
+
+#: admin/partials/items.php:91 includes/about/wow-plugins.php:93
+msgid "Active Installs"
+msgstr ""
+
+#: admin/partials/list.php:25
+msgid "Search"
+msgstr ""
+
+#: admin/partials/main.php:22
+msgid "List"
+msgstr ""
+
+#: admin/partials/main.php:23
+msgid "Add new"
+msgstr ""
+
+#: admin/partials/main.php:24
+msgid "Pro Features"
+msgstr ""
+
+#: admin/partials/main.php:25
+msgid "Support"
+msgstr ""
+
+#: admin/partials/main.php:26 includes/about/main.php:114
+msgid "Plugins"
+msgstr ""
+
+#: admin/partials/main.php:34
+msgid "Add New"
+msgstr ""
+
+#: admin/partials/main.php:39
+#, php-format
+msgid ""
+"We want to hear your Ideas about improving the plugin.\n"
+"    <a href=\"%1$s\" target=\"_blank\">Send Message</a>!"
+msgstr ""
+
+#: admin/partials/support.php:46
+msgid "Please, Enter your First Name."
+msgstr ""
+
+#: admin/partials/support.php:49
+msgid "Please, Enter your Last Name."
+msgstr ""
+
+#: admin/partials/support.php:52
+msgid "Please, Enter your Message."
+msgstr ""
+
+#: admin/partials/support.php:55
+msgid "Please, Enter your Email."
+msgstr ""
+
+#: admin/partials/support.php:87
+msgid "Your Message sent to the Support."
+msgstr ""
+
+#: admin/partials/support.php:94
+msgid ""
+"Sorry, but message did not send. Please, contact us support@wow-company.com"
+msgstr ""
+
+#: admin/partials/support.php:108
+msgid "First Name"
+msgstr ""
+
+#: admin/partials/support.php:110
+msgid "Enter Your First Name"
+msgstr ""
+
+#: admin/partials/support.php:113
+msgid "Last Name"
+msgstr ""
+
+#: admin/partials/support.php:115
+msgid "Enter Your Last Name"
+msgstr ""
+
+#: admin/partials/support.php:120
+msgid "WebSite"
+msgstr ""
+
+#: admin/partials/support.php:124
+msgid "Contact email"
+msgstr ""
+
+#: admin/partials/support.php:132
+msgid "License Key"
+msgstr ""
+
+#: admin/partials/support.php:138
+msgid "Plugin"
+msgstr ""
+
+#: admin/partials/support.php:146
+msgid "Message type"
+msgstr ""
+
+#: admin/partials/support.php:148
+msgid "Issue"
+msgstr ""
+
+#: admin/partials/support.php:149
+msgid "Idea"
+msgstr ""
+
+#: admin/partials/support.php:156
+msgid "Enter Your Message"
+msgstr ""
+
+#: admin/partials/support.php:162
+msgid "Send to Support"
+msgstr ""
+
+#: admin/partials/tools-data-base.php:30
+msgid "Item Deleted"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: floating-button.php:52 floating-button.php:53
+msgid "Floating Button Lite"
+msgstr ""
+
+#: floating-button.php:73
+msgid "WordPress.org"
+msgstr ""
+
+#: floating-button.php:105 floating-button.php:117
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: includes/about/main.php:101
+msgid "Welcome"
+msgstr ""
+
+#: includes/about/main.php:104
+msgid ""
+"Congratulations! You are about to use one of the plugins from Wow-Company."
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/floating-button/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Easily create a floating button"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Wow-Company"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://wow-estore.com/"
+msgstr ""
